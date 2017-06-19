@@ -1,0 +1,33 @@
+{
+    "name": "angular-mystars",
+    "main": "angular-mystars.js",
+    "version": "1.0.0",
+    "homepage": "https://github.com/giodex/angular-mystars",
+    "authors": [
+        "Giorgio Dessi <giorgio.dessi@eng.it>"
+    ],
+    "private": false,
+    "description": "Angular Star Ratings directive",
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "angular",
+        "mystars",
+        "directive",
+        "class",
+        "module"
+    ],
+    "dependencies": {
+        "angular": ">=1.2.0",
+        "jquery": ">=1.6.4"
+    },
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
