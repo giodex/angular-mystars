@@ -4,7 +4,7 @@ Angular module to Star Ratings
 
 ## Getting Started
 
-You can install an angular-rateit package easily using Bower:
+You can install an angular-mystars package easily using Bower:
 
 ```shell
 bower install angular-mystars
