@@ -1,0 +1,33 @@
+{
+    "name": "angular-mystars",
+    "version": "1.0.0",
+    "description": "AngularJS module for rating",
+    "main": "angular-mystars.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/giodex/angular-mystars.git"
+    },
+    "keywords": [
+        "angular",
+        "mystars",
+        "directive",
+        "class",
+        "module"
+    ],
+    "author": "Giorgio Dessi <giorgio.dessi@eng.it>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/giodex/angular-mystars/issues"
+    },
+    "homepage": "http://angularjs.org",
+    "jspm": {
+        "shim": {
+            "angular-cookies": {
+                "deps": ["angular"]
+            }
+        }
+    }
+}
