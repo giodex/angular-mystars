@@ -1,4 +1,4 @@
-var module = angular.module('angular-mystars');
+var module = angular.module('angular-mystars',[]);
 
 module
     .directive('starRating', function() {
